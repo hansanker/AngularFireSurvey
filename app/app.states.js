@@ -1,5 +1,5 @@
 /**
- * Load states for application
+ * Load states for application test
  * more info on UI-Router states can be found at
  * https://github.com/angular-ui/ui-router/wiki
  */
